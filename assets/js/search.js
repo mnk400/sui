@@ -122,7 +122,7 @@ function search(text) {
 
 // Source: https://stackoverflow.com/questions/5717093/check-if-a-javascript-string-is-a-url
 function validURL(str) {
-    var pattern = new RegExp('^(https?:\\/\\/)?' + // protocol
+    var pattern = new RegExp('^(http?:\\/\\/)?' + // protocol
         '((([a-z\\d]([a-z\\d-]*[a-z\\d])*)\\.)+[a-z]{2,}|' + // domain name
         '((\\d{1,3}\\.){3}\\d{1,3}))' + // OR ip (v4) address
         '(\\:\\d+)?(\\/[-a-z\\d%_.~+]*)*' + // port and path
@@ -132,7 +132,7 @@ function validURL(str) {
 }
 
 function containsProtocol(str) {
-    var pattern = new RegExp('^(https?:\\/\\/){1}.*', 'i');
+    var pattern = new RegExp('^(http?:\\/\\/){1}.*', 'i');
     return !!pattern.test(str);
 }
 

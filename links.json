@@ -1,70 +1,19 @@
 {
             "bookmarks" : [
               {
-                "category": "Communicate",
+                "category": "Social",
                 "links": [
                   {
-                    "name": "Discord",
-                    "url": "https://discordapp.com/"
+                    "name": "Twitter",
+                    "url": "http://twitter.com"
                   },
                   {
                     "name": "Gmail",
                     "url": "http://gmail.com"
                   },
                   {
-                    "name": "Slack",
-                    "url": "https://slack.com/signin"
-                  }
-                ]
-              },
-              {
-                "category": "Cloud",
-                "links": [
-                  {
-                    "name": "Box",
-                    "url": "https://box.net"
-                  },
-                  {
-                    "name": "Dropbox",
-                    "url": "https://dropbox.com"
-                  },
-                  {
-                    "name": "Drive",
-                    "url": "https://drive.google.com"
-                  }
-                ]
-              },
-              {
-                "category": "Design",
-                "links": [
-                  {
-                    "name": "Awwwards",
-                    "url": "https://awwwards.com"
-                  },
-                  {
-                    "name": "Dribbble",
-                    "url": "https://dribbble.com"
-                  },
-                  {
-                    "name": "Muz.li",
-                    "url": "https://medium.muz.li/"
-                  }
-                ]
-              },
-              {
-                "category": "Dev",
-                "links": [
-                  {
-                    "name": "Codepen",
-                    "url": "https://codepen.io/"
-                  },
-                  {
-                    "name": "Devdocs",
-                    "url": "https://devdocs.io"
-                  },
-                  {
-                    "name": "Devhints",
-                    "url": "https://devhints.io"
+                    "name": "Instagram",
+                    "url": "https://instagram.com"
                   }
                 ]
               },
@@ -72,16 +21,54 @@
                 "category": "Lifestyle",
                 "links": [
                   {
-                    "name": "Design Milk",
-                    "url": "https://design-milk.com/category/interior-design/"
+                    "name": "Amazon",
+                    "url": "https://amazon.com"
                   },
                   {
-                    "name": "Dwell",
-                    "url": "https://www.dwell.com/"
+                    "name": "AliExpress",
+                    "url": "https://aliexpress.com"
                   },
                   {
-                    "name": "Freshome",
-                    "url": "https://freshome.com/"
+                    "name": "Goat",
+                    "url": "https://goat.com"
+                  }
+                ]
+              },
+              {
+                "category": "Reddit",
+                "links": [
+                  {
+                    "name": "/r/hiphopheads",
+                    "url": "https://reddit.com/r/hiphopheads"
+                  },
+                  {
+                    "name": "/r/popheads",
+                    "url": "https://reddit.com/r/popheads"
+                  },
+                  {
+                    "name": "Front Page",
+                    "url": "https://reddit.com"
+                  },
+                  {
+                    "name": "Popular",
+                    "url": "https://reddit.com/popular"
+                  }
+                ]
+              },
+              {
+                "category": "Dev",
+                "links": [
+                  {
+                    "name": "Github",
+                    "url": "https://github.com"
+                  },
+                  {
+                    "name": "Devdocs",
+                    "url": "https://devdocs.io"
+                  },
+                  {
+                    "name": "Stackoverflow",
+                    "url": "https://stackoverflow.com"
                   }
                 ]
               },
@@ -89,33 +76,16 @@
                 "category": "Media",
                 "links": [
                   {
-                    "name": "Spotify",
-                    "url": "http://browse.spotify.com"
-                  },
-                  {
-                    "name": "Trakt",
-                    "url": "http://trakt.tv"
+                    "name": "Prime",
+                    "url": "http://prime.amazon.com"
                   },
                   {
                     "name": "YouTube",
                     "url": "http://youtube.com/subscriptions"
-                  }
-                ]
-              },
-              {
-                "category": "Reading",
-                "links": [
-                  {
-                    "name": "Instapaper",
-                    "url": "https://www.instapaper.com/u"
                   },
                   {
-                    "name": "Medium",
-                    "url": "http://medium.com"
-                  },
-                  {
-                    "name": "Reddit",
-                    "url": "http://reddit.com"
+                    "name": "Google Photos",
+                    "url": "http://photos.google.com"
                   }
                 ]
               },
@@ -123,12 +93,16 @@
                 "category": "Tech",
                 "links": [
                   {
-                    "name": "TheNextWeb",
-                    "url": "https://thenextweb.com/"
+                    "name": "/r/hardware",
+                    "url": "https://reddit.com/r/hardware"
                   },
                   {
                     "name": "The Verge",
                     "url": "https://theverge.com/"
+                  },
+                  {
+                    "name": "Hackernews",
+                    "url": "https://news.ycombinator.com"
                   },
                   {
                     "name": "MIT Technology Review",
